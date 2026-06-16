@@ -1,0 +1,6 @@
+{
+  "name": "X STRIKE",
+  "description": "Sistem Dashboard Game Booster Real-time ala Armoury Crate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
